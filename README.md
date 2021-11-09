@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Passion for software development, engineering, and infractruction.
+
+Always open to new oppertunities.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnysfnys)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **fnysfnys/fnysfnys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passion for development, engineering, and infrastructure.
+Passion for development, engineering, and all things code.
 
 Always open to new oppertunities.
 

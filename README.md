@@ -2,8 +2,6 @@
 
 Third year MEng Computer Science student at UCL.
 
-Highly experienced with Python, FastAPI, and Docker.
-
 Passion for development, engineering, and all things code.
 
 Always open to new oppertunities.

@@ -2,9 +2,9 @@
 
 Third year MEng Computer Science student at UCL.
 
-Passion for development, engineering, and all things code.
+Passion for Computer Science and SWE.
 
-Always open to new oppertunities.
+Experienced with Python, FastAPI, Docker, Git & GitHub.
 
 <!--
 **fnysfnys/fnysfnys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
